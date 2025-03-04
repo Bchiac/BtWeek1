@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application 3.3</string>
+    <string name="profile_placeholder">Profile Picture</string>
+    <string name="profile_name">Johan Smith</string>
+    <string name="profile_location">California, USA</string>
+    <string name="btn_back_text">Quay lại</string>
+    <string name="btn_edit_text">Chỉnh sửa</string>
+
+
+</resources>
