@@ -8,3 +8,4 @@ Mong muốn và định hướng của em sau khi học xong môn này là: Hi�
 ## Câu 2
 Em nghĩ lập trình di động sẽ phát triển vì hiện nay, thiết bị di động như vật bất ly thân, từ trẻ nhỏ đến người già ai ai cũng sử dụng, em nghĩ thiết bị di động không chỉ dừng lại ở đó, mà tương lai gần nó 
 sẽ càng ngày càng có nhiều thứ để khai thác hơn.
+![ExPicture](https://github.com/user-attachments/assets/ca98f4fd-179e-4592-b338-95aa729240a6)
